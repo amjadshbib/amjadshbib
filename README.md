@@ -1,16 +1,20 @@
-## Hi there 👋
+# Amjad Shbib
 
-<!--
-**amjad996/amjad996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software architect · CEO at Barnamix**
 
-Here are some ideas to get you started:
+I design and build multi-tenant SaaS platforms, business applications, and AI-powered workflows. My work spans backend architecture, web and mobile applications, and deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
+
+| Focus | Work |
+| --- | --- |
+| SaaS architecture | Tenant isolation, role-based access, billing, and provider integrations |
+| Web and mobile | Laravel APIs, Next.js applications, and Flutter apps with BLoC |
+| AI automation | Agent workflows, system integrations, and operational tooling |
+
+## Selected work
+
+- [Barnamix](https://barnamix.com) — Software engineering and AI services.
+- [Set Alkel](https://setalkel.com) — A multilingual B2B manufacturing and export platform.
+
+[Personal website](https://amjadshbib.com) · [Barnamix](https://barnamix.com)
