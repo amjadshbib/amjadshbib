@@ -15,6 +15,9 @@ I build multi-tenant SaaS platforms, web and mobile products, and AI-powered wor
 | Verlod | Social media automation for Facebook and Instagram, including scheduled publishing, automated replies, and chatbots. |
 | Vendyx | A digital goods SaaS platform with tenant storefronts, store management, and platform administration. |
 | Numodar | Poultry farm management software covering farms and sheds, feed tracking, and operational reporting. |
+| Alkamal Cash | A balance transfer platform for telecom services, with provider integrations and tools for agent and point-of-sale networks. |
+| Sham Balance | An application for transferring and managing balances. |
+| Tasfeefa | — |
 | Exhibition Contacts | A CRM for capturing business cards, organizing companies and contacts, and tracking follow-ups after trade shows. |
 
 ## Engineering focus
@@ -27,3 +30,4 @@ I build multi-tenant SaaS platforms, web and mobile products, and AI-powered wor
 ## نبذة بالعربية
 
 أمجد شبيب، معماري برمجيات والرئيس التنفيذي لـBarnamix. أعمل على تطوير منصات SaaS متعددة المستأجرين وتطبيقات الويب والموبايل، وأهتم بأتمتة سير العمل بالذكاء الاصطناعي.
+
